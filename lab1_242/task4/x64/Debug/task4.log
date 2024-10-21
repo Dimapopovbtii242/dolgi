@@ -1,0 +1,5 @@
+﻿  task4.c
+C:\Users\дмитрий\Desktop\lab1_242\task4\task4.c(14,2): warning C4098: name: функция типа "void", возвращающая значение
+C:\Users\дмитрий\Desktop\lab1_242\task4\task4.c(31,2): warning C4098: data: функция типа "void", возвращающая значение
+C:\Users\дмитрий\Desktop\lab1_242\task4\task4.c(37,2): warning C4098: main: функция типа "void", возвращающая значение
+  task4.vcxproj -> C:\Users\дмитрий\Desktop\lab1_242\242lab1\x64\Debug\task4.exe
