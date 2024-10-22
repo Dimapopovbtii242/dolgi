@@ -1,0 +1,6 @@
+﻿  3.3.c
+C:\Users\дмитрий\Desktop\3.3\3.3\3.3.c(4,9): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+      C:\Users\дмитрий\Desktop\3.3\3.3\3.3.c(4,9):
+      "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+  
+  3.3.vcxproj -> C:\Users\дмитрий\Desktop\3.3\3.3\x64\Debug\3.3.exe
