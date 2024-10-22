@@ -1,0 +1,3 @@
+﻿  task1.c
+C:\Users\дмитрий\Desktop\lab6_242\lab6_task1\task1.c(17,2): warning C4098: main: функция типа "void", возвращающая значение
+  lab6_task1.vcxproj -> C:\Users\дмитрий\Desktop\lab6_242\lab6_task1\x64\Debug\lab6_task1.exe
