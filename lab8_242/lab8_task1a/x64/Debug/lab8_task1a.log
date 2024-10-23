@@ -1,0 +1,4 @@
+﻿  task1a.c
+C:\Users\дмитрий\Desktop\lab8_242\lab8_task1a\task1a.c(23,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\дмитрий\Desktop\lab8_242\lab8_task1a\task1a.c(31,2): warning C4098: main: функция типа "void", возвращающая значение
+  lab8_task1a.vcxproj -> C:\Users\дмитрий\Desktop\lab8_242\lab8_task1\x64\Debug\lab8_task1a.exe
