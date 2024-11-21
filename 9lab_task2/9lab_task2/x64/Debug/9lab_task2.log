@@ -1,0 +1,6 @@
+﻿  task2.c
+C:\Users\дмитрий\Desktop\lab9_242\9lab_task2\task2.c(3,10): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+      C:\Users\дмитрий\Desktop\lab9_242\9lab_task2\task2.c(3,10):
+      "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+  
+  9lab_task2.vcxproj -> C:\Users\дмитрий\Desktop\lab9_242\9lab_task2\x64\Debug\9lab_task2.exe
